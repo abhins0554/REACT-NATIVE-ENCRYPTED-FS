@@ -2,11 +2,12 @@
 **React Native**
 **Android**
 **iOS**
+**FS**
 **Encrypted**
 **Encrypted FS**
-**FS**
 
-# React Native Encrypted FS
+
+<h1 style="color: skyblue;">React Native Encrypted FS</h1>
 
 
 ## Why ?
@@ -33,6 +34,14 @@ $ npm install react-native-encrypted-fs
 ```
 
 ## Linking
+
+<h2 style="
+    color: red;
+">If some issue while working with install react-native-fs as main module also</h2>
+
+```bash
+npm install react-native-fs
+```
 
 - React Native 0.60+
 
