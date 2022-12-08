@@ -1,6 +1,6 @@
 {
   "name": "react-native-encrypted-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library for react native encrypted fs",
   "main": "index.js",
   "scripts": {
